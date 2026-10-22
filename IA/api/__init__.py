@@ -1,0 +1,1 @@
+"""EcoCampus HTTP API."""

@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+dataset/
+dataset_detect/
+drinking-waste-classification/
+runs/

@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "EcoCampus",
+  "short_name": "EcoCampus",
+  "description": "Recicla en tu campus y gana recompensas.",
+  "lang": "es-MX",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
